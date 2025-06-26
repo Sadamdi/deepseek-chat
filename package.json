@@ -1,0 +1,24 @@
+{
+  "name": "deepseek",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^0.21.4",
+    "discord.js": "^14.18.0",
+    "dotenv": "^10.0.0",
+    "mammoth": "^1.9.0",
+    "msoffice2pdf": "^1.0.12",
+    "node-pptx-parser": "^1.0.1",
+    "office-text-extractor": "^3.0.3",
+    "openai": "^4.83.0",
+    "pdf-parse": "^1.1.1",
+    "sharp": "^0.30.0",
+    "word-extractor": "^1.0.4",
+    "xlsx": "^0.17.5"
+  }
+}
